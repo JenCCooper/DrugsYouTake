@@ -1,0 +1,25 @@
+.image1 {
+  float: right;
+  margin: 20px;
+  border-radius: 10%;
+  margin-right: 70px;
+  width: 100px;
+  height: 100px;
+}
+
+.image2 {
+  float: left;
+  margin: 20px;
+  display: block;
+  border-radius: 50%;
+  width: 200px;
+  height: 220px;
+}
+
+h2, h3{
+  margin: 20px;
+}
+
+p {
+  margin: 20px;
+}
